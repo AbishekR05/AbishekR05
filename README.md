@@ -31,49 +31,22 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
-
-<h3 align="center">Languages</h3>
+<h2 align="center">🛠️ Tech I've used</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css,react,vite,nodejs,express,git,github,vscode,figma&theme=dark" />
 </p>
 
-<h3 align="center">Frontend</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
-</p>
-
-<h3 align="center">Backend</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-<h3 align="center">AI / Data Science</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="55"/>
-</p>
-
-<h3 align="center">Database</h3>
-
-<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="50"/>
-</p>
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
